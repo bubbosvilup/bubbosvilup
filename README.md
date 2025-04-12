@@ -15,7 +15,7 @@
 
 ### ⚙️ Projects I'm Cooking
 
-- 🛰️ [SIGNALFORGE](https://github.com/bubbosvilup/project-SIGNALFORGE) – Empty commits, full intent  
+- 🛰️ [SIGNALFORGE] – can't talk about it, illusion of movement. 
 - 🧾 RegexForger (WIP) – Visual regex builder with dynamic feedback  
 
 ---
@@ -62,7 +62,7 @@
 
 ---
 
-> _“It is not the commit that matters. It is the illusion of movement.”_  
+> _“It is not the commitMENT that matters. It is the illusion of movement.”_  
 > — Anomaly Thread, `node logs (redacted)`
 
 ---
