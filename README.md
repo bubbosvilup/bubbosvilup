@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Nicco 👾</h1>
-<p align="center"><i>Frontend dropout. Automating illusions. Feeding the Git graph.</i></p>
+<p align="center"><i>Frontend enthusiast. Automating illusions. Feeding the Git graph.</i></p>
 
 ---
 
