@@ -1,22 +1,22 @@
-<h1 align="center">Hey, I'm Nicco 👾</h1>
-<p align="center"><i>Frontend enthusiast. Automating illusions. Feeding the Git graph.</i></p>
+<h1 align="center">Ciao, sono Nicco 👾</h1>
+<p align="center"><i>Scrivo interfacce, automazioni e piccoli mondi digitali.</i></p>
 
 ---
 
-### 🧠 About Me
+### 🧠 Chi sono
 
-- 🔧 Building tools nobody asked for  
-- 🌒 Dark mode enthusiast  
+- 🔧 Appassionato di UI veloci e interattive
+- 🌒 Dev che vive quasi esclusivamente in dark mode 
 - 🎮 Ex-game service dev (boosting & backend vibes)  
-- 🧪 Now focused on automation, UI micro-experiments, and entropy pipelines  
+- 🔍 Curioso di ciò che succede “sotto il cofano” delle moderne SPA  
 - 🧍‍♂️ Currently exploring: commit rituals, SPA architectures, reactive state flows
 
 ---
 
 ### ⚙️ Projects I'm Cooking
 
-- 🛰️ [SIGNALFORGE] – can't talk about it, illusion of movement. 
-- 🧾 RegexForger (WIP) – Visual regex builder with dynamic feedback  
+- 🛰️ **SIGNALFORGE** — toolkit per interfacce guidate dal suono 
+- 🧾 editor visuale per regex, reattivo e immediato  
 
 ---
 
@@ -54,15 +54,14 @@
 
 ### 🧿 Vibes & Badges
 
-![Status](https://img.shields.io/badge/⏳_Build-Steady-blue)
+![DarkMode](https://img.shields.io/badge/🖤_Dark_Mode-Required-333)
 ![Style](https://img.shields.io/badge/🖤_Prefers-Dark_Mode-333333)
-![Workflow](https://img.shields.io/badge/⚙️_Commits-Curated-informational)
+![Flow](https://img.shields.io/badge/⚙️_Commit_Flow-Curated-informational)
 ![Useless](https://img.shields.io/badge/🌀_Automations-Sometimes_Empty-blueviolet)
 ![FreeTime](https://img.shields.io/badge/🎧_Sound%20logic-obsessed-ff66cc)
 
 ---
 
-> _“It is not the commitMENT that matters. It is the illusion of movement.”_  
-> — Anomaly Thread, `node logs (redacted)`
+<p align="center"><i>“Le interfacce non devono solo funzionare — devono fluire.”</i></p>
 
 ---
